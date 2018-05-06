@@ -1,2 +1,2 @@
 # HashTable
-Different implementation of HashTable 
+Different implementations of HashTable 
